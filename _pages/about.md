@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome to my home page! I am Yichun Zhou, a fourth-year Ph.D. candidate in [Urban Systems](https://engineering.nyu.edu/academics/programs/urban-systems-phd) at New York University (NYU) Tandon School of Engineering, and a research associate at the Shanghai Key Laboratory of Urban Design and Urban Science ([LOUD](https://urban.shanghai.nyu.edu/)), NYU Shanghai. My research sits at the intersection of urban analytics, green space planning, and human mobility, with a strong commitment to leveraging data-driven strategies to foster sustainable urban development and enhance human well-being. I hold a Master of Science in Management of Technology from NYU and a Bachelor of Science in Computer Science from WKU. Before starting my Ph.D., I gained industry experience at Amazon Web Services, Bosch and Tencent, focusing on innovative technologies and solutions.
 
 A data-driven personal website
 ======
