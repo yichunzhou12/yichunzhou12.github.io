@@ -25,9 +25,9 @@ author:
   name             : "Yichun Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in <a href='https://engineering.nyu.edu/academics/programs/urban-systems-phd'>Urban Systems</a>
-  <br>Department of Civil and Urban Engineering<br>Tandon School of Engineering<br>New York University<br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD, NYU Shanghai</a>"
+  <br>Anticipated Graduation: <strong>May 2025</strong><br>Tandon School of Engineering, NYU<br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD</a>, NYU Shanghai"
   location         : "Brooklyn, NY / Shanghai, China"
-  # employer         : "New York University"
+  employer         : "New York University"
   uri              : "yichunzhou12.github.io"
   email            : "yichun.zhou@nyu.edu" 
 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=MqOZmF8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/my-orcid?orcid=0009-0000-8497-2277
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
