@@ -3,7 +3,7 @@ title: "Visitation-based classification of urban parks through mobile phone big 
 collection: publications
 category: manuscripts
 permalink: /publications/2024-5-17-ag-visitation-based-classification.md
-excerpt: 'Three novel park classif ications, everyday leisure parks, social destination parks, and seasonal activity parks.'
+excerpt: 'Three novel park classifications, everyday leisure parks, social destination parks, and seasonal activity parks.'
 date: 2024-05-17
 venue: 'Applied Geography'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
