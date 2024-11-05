@@ -24,7 +24,7 @@ author:
   avatar           : "Yichun street image.jpg"
   name             : "Yichun Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Fourth-year Ph.D. candidate in <a href='https://engineering.nyu.edu/academics/programs/urban-systems-phd'>Urban Systems</a> at NYU.<br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD</a>."
+  bio              : "Fourth-year Ph.D. candidate in <a href='https://engineering.nyu.edu/academics/programs/urban-systems-phd'>Urban Systems</a> at NYU<br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD</a>"
   location         : "Brooklyn, NY / Shanghai, China"
   employer         : "New York University"
   uri              : "yichunzhou12.github.io"
