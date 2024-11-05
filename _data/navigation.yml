@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Home"
-    url: /about/
+  - title: "Education"
+    url: /publications/
 
   - title: "Research"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentation"
     url: /talks/    
 
   - title: "Teaching"

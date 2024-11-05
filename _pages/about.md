@@ -11,4 +11,4 @@ Welcome to my homepage! I am Yichun Zhou, a fourth-year Ph.D. candidate in [Urba
 
 My research lies at the intersection of urban analytics, green space planning, and human mobility. I am dedicated to advancing sustainable urban development and enhancing human well-being through data-informed strategies. My academic work has been published in *Landscape and Urban Planning*, *Urban Forestry & Urban Greening*, *Applied Geography*, and other peer-reviewed journals.
 
-I hold a Master of Science in Management of Technology from NYU and a Bachelor of Science in Computer Science from Western Kentucky University. Before beginning my Ph.D., I gained industry experience as a Data Science and Program Management Intern at Amazon Web Services, Bosch, and Tencent.
+I hold a Master of Science in [Management of Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms-campus) from NYU and a Bachelor of Science in [Computer Science](https://www.wku.edu/cs/) from Western Kentucky University. Before beginning my Ph.D., I gained industry experience as a Data Science and Program Management Intern at Amazon Web Services, Bosch, and Tencent.
