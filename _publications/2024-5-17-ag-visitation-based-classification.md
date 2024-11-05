@@ -2,6 +2,7 @@
 title: "Visitation-based classification of urban parks through mobile phone big data in Tokyo"
 collection: publications
 category: manuscripts
+pubtype: 'journal'
 permalink: /publication/2024-5-17-ag-visitation-based-classification
 excerpt: 'We introduced three novel park classifications, everyday leisure parks, social destination parks, and seasonal activity parks.'
 date: 2024-05-17
