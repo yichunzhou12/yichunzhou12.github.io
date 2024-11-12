@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am Yichun Zhou, a fourth-year Ph.D. candidate in [Urban Systems](https://engineering.nyu.edu/academics/programs/urban-systems-phd) at New York University (NYU), in the Department of Civil and Urban Engineering, **anticipating graduation in May 2025**. I am also a Research Associate at the Shanghai Key Laboratory of Urban Design and Urban Science ([LOUD](https://urban.shanghai.nyu.edu/)), NYU Shanghai, and a participant in the [Urban Science: Sensing, Complexity, & Informatics](https://engineering.nyu.edu/urban-science-sensing-complexity-informatics-doctoral-track) Doctoral Track at the Center for Urban Science and Progress ([CUSP](https://engineering.nyu.edu/research-innovation/centers/cusp)).
+Welcome to my homepage! I am Yichun Zhou, a fourth-year Ph.D. candidate in [Urban Systems](https://engineering.nyu.edu/academics/programs/urban-systems-phd) at New York University (NYU) Tandon School of Engineering, in the Department of Civil and Urban Engineering. **Anticipating graduation in May 2025**, I conduct research at the intersection of urban analytics, environmental planning, and human mobility to support sustainable urban environments and enhancing human well-being through data-informed strategies. I am also a Research Associate at the Shanghai Key Laboratory of Urban Design and Urban Science ([LOUD](https://urban.shanghai.nyu.edu/)), NYU Shanghai, and a participant in the [Urban Science: Sensing, Complexity, & Informatics](https://engineering.nyu.edu/urban-science-sensing-complexity-informatics-doctoral-track) doctoral track at the Center for Urban Science and Progress ([CUSP](https://engineering.nyu.edu/research-innovation/centers/cusp)).
 
-My research lies at the intersection of urban analytics, green space planning, and human mobility. I am dedicated to advancing sustainable urban development and enhancing human well-being through data-informed strategies. My academic work has been published in *Landscape and Urban Planning*, *Urban Forestry & Urban Greening*, *Applied Geography*, and other peer-reviewed journals.
+My research focuses on leveraging computational techniques—including machine learning, spatial statistics, and causal inference—to explore the role of green spaces, urban mobility, and environmental equity in fostering healthier, more inclusive cities. Utilizing spatial data from diverse sources such as mobile phone data, street view imagery, and survey, my work aims to advance data-driven policies that enhance urban well-being, accessibility to green spaces, and sustainable development. My academic work has been published in *Landscape and Urban Planning*, *Urban Forestry & Urban Greening*, *Applied Geography*, and several under review at other peer-reviewed journals.
 
-I hold a Master of Science in [Management of Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms-campus) from NYU and a Bachelor of Science in [Computer Science](https://www.wku.edu/cs/) from Western Kentucky University. Before beginning my Ph.D., I gained industry experience as a Data Science and Program Management Intern at Amazon Web Services, Bosch, and Tencent.
+I hold a Master of Science in [Management of Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms-campus) with a specialization in Data Analytics from NYU and a Bachelor of Science in [Computer Science](https://www.wku.edu/cs/) with a Minor in Business Administration from Western Kentucky University. Before beginning my Ph.D., I gained industry experience as a Data Science and Program Management Intern at Amazon Web Services, Bosch, and Tencent.
 
 
 ## Selected Publications
