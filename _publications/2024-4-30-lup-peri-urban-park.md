@@ -3,7 +3,7 @@ title: "Exploring environmental equity and visitation disparities in peri-urban 
 collection: publications
 category: manuscripts
 pubtype: 'journal'
-permalink: /publication/2024-4-30-lup-peri-urban-park.md
+permalink: /publication/2024-4-30-lup-peri-urban-park
 excerpt: 'Extending the peri-urban parks service radius beyond 10 km could mitigate environmental inequity.'
 date: 2024-04-30
 venue: 'Landscape and Urban Planning'
