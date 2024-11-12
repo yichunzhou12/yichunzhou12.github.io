@@ -8,7 +8,7 @@ excerpt: 'We introduced three novel park classifications, everyday leisure parks
 date: 2024-05-17
 venue: 'Applied Geography'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://yichunzhou12.github.io/files/visitation-base classification.pdf'
+paperurl: 'http://yichunzhou12.github.io/files/visitation-base classification.pdf'
 citation: '<b>Zhou, Y.</b>, Guan, C., Wu, L., Li, Y., Nie, X., Song, J., Kim, S. K., & Akiyama, Y. (2024). &quot;Visitation-based classification of urban parks through mobile phone big data in Tokyo.&quot; <i>Applied Geography</i>. 167, 103300.'
 ---
 **Abstract:**
