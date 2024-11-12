@@ -12,8 +12,8 @@ title                    : "Yichun's Homepage"
 title_separator          : "-"
 name                     : &name "Yichun Zhou"
 description              : &description "Yichun's Homepage"
-url                      : "https://yichunzhou12.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blogjekyll" # the subpath of your site, e.g. "/blog"
+url                      : "https://www.yichunzhou.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yichunzhou12/yichunzhou12.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -28,14 +28,14 @@ author:
   <br>Anticipated Graduation: <strong>May 2025</strong><br>NYU Tandon School of Engineering<br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD</a>"
   location         : "Brooklyn, NY / Shanghai, China"
   employer         : "New York University"
-  uri              : "yichunzhou12.github.io"
+  uri              : "https://www.yichunzhou.com/"
   email            : "yichun.zhou@nyu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=MqOZmF8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : https://orcid.org/my-orcid?orcid=0009-0000-8497-2277
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-8497-2277"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
