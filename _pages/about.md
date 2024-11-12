@@ -16,16 +16,18 @@ I hold a Master of Science in [Management of Technology](https://engineering.nyu
 
 ## Selected Publications
 
-**“Unfenced” parks and residents’ visit patterns: A regression discontinuity design in Shanghai**
+**Visitation-based classification of urban parks through mobile phone big data in Tokyo** \
+Published in *Applied Geography*, 2024.  \
+[Read more](https://yichunzhou12.github.io/publication/2024-5-17-ag-visitation-based-classification) \| [PDF Download](http://yichunzhou12.github.io/files/visitation-base%20classification.pdf)  \| [DOI](https://doi.org/10.1016/j.apgeog.2024.103300) \
+*Summary:* This study introduces a novel classification of urban parks in Tokyo based on mobile phone data from 300 parks, revealing distinct park types—everyday leisure parks, social destination parks, and seasonal activity parks—each with unique visitation patterns. These findings support targeted park management strategies that align maintenance and amenities with actual usage trends, enhancing green infrastructure planning.
 
+**Exploring environmental equity and visitation disparities in peri-urban parks: A mobile phone data-driven analysis in Tokyo** \
+Published in *Landscape and Urban Planning*, 2024.  \
+[Read more](https://yichunzhou12.github.io/publication/2024-4-30-lup-peri-urban-park) \| [PDF Download](http://yichunzhou12.github.io/files/LUP_peri%20urban%20park.pdf)  \| [DOI](https://doi.org/10.1016/j.landurbplan.2024.105104) \
+*Summary:* This study examines environmental equity and visitation disparities in Tokyo's peri-urban parks using mobile phone data, revealing that extending the park service radius beyond 10 km could reduce inequities in park access. The findings provide insights for developing policies that enhance accessibility and better address visitor needs in urban planning.
+
+
+**“Unfenced” parks and residents’ visit patterns: A regression discontinuity design in Shanghai** \
 Published in <i>Urban Forestry & Urban Greening</i>, 2024.\
-[PDF Download](https://www.yichunzhou.com/files/LUP_peri%20urban%20park.pdf) \| [Journal](https://www.sciencedirect.com/science/article/pii/S1618866724002577)\
-<i> Summary:</i> This study employs a regression discontinuity design to examine shifts in park visitation behaviors among Shanghai residents following the sudden easing of COVID-19 containment measures, revealing decreased visits, reduced public transit use, and diminished activity levels, particularly in larger parks and community greenspaces. These insights inform greenspace management strategies during transitional post-pandemic periods.
-
-
-**The roads one must walk down: Commute and depression for Beijing’s residents**\
-(with Tao Liu)\
-<i>Transportation Research Part D: Transport and Environment, Vol. 109</i>, 103316, 2022.\
-[Read more](https://xizewang.github.io/publication/2022-06-22-trd-depression-commute) \| [PDF](https://xizewang.github.io/files/2022-06-22-trd-depression-commute.pdf) \| [Journal (Open Access)](https://doi.org/10.1016/j.trd.2022.103316)\
-<i> Summary:</i> Those taking longer time to work have higher risks for depression - especially for motorcycle/moped takers, older people and blue-collar workers. \
-<i> Media Coverage:</i> [Lianhe Zaobao ThinkChina](https://www.thinkchina.sg/longer-commute-beijingers-may-spell-higher-depression-risks) \| [Caixin Global](https://www.caixinglobal.com/2022-10-20/how-your-work-commute-can-affect-your-mental-health-101954036.html) 
+[Read more](https://yichunzhou12.github.io/publication/2024-07-23-ufug-unfenced-park) \| [PDF Download](https://www.yichunzhou.com/files/LUP_peri%20urban%20park.pdf) \| [DOI](https://doi.org/10.1016/j.ufug.2024.128459) \
+*Summary:* This study employs a regression discontinuity design to examine shifts in park visitation behaviors among Shanghai residents following the sudden easing of COVID-19 containment measures, revealing decreased visits, reduced public transit use, and diminished activity levels, particularly in larger parks and community greenspaces. These insights inform greenspace management strategies during transitional post-pandemic periods.
