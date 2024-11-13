@@ -5,6 +5,9 @@ excerpt: "Publications"
 author_profile: true
 ---
 
+### You can also find my articles on [my Google Scholar profile.](https://scholar.google.com/citations?hl=en&user=MqOZmF8AAAAJ)
+
+
 ## Journal Articles
 ### Visitation-based classification of urban parks through mobile phone big data in Tokyo
 Published in *Applied Geography*, 2024.  
