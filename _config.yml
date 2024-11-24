@@ -21,7 +21,7 @@ repository               : "yichunzhou12/yichunzhou12.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yichun street image.jpg"
+  avatar           : "yichun_boston_pic_square.jpg"
   name             : "Yichun Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in <a href='https://engineering.nyu.edu/academics/programs/urban-systems-phd'>Urban Systems</a>
