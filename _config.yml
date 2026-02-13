@@ -24,10 +24,10 @@ author:
   avatar           : "yichun_boston_pic_square.jpg"
   name             : "Yichun Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in <a href='https://engineering.nyu.edu/academics/programs/urban-systems-phd'>Urban Systems</a>
-  <br>Anticipated Graduation: <strong>May 2025</strong><br>NYU Tandon School of Engineering<br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD</a>"
-  location         : "Brooklyn, NY / Shanghai, China"
-  employer         : "New York University"
+  bio              : "Postdoctoral Fellow of Urban Science
+  <br><a href='https://shanghai.nyu.edu/'>NYU Shanghai</a><br>Research Associate at <a href='https://urban.shanghai.nyu.edu/'>LOUD</a>"
+  location         : "Shanghai, China"
+  employer         : "NYU Shanghai"
   uri              : "https://www.yichunzhou.com/"
   email            : "yichun.zhou@nyu.edu" 
 
